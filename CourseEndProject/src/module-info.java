@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jkhullar
+ *
+ */
+module CourseEndProject {
+}
